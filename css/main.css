@@ -11,6 +11,14 @@
   padding-top: 10em;
 }
 
+.top {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.aboveButton {
+  font-family: 'Helvetica', sans-serif;
+}
+
 .firstButton {
   background-color: #118BC0;
   text-align: center;
@@ -44,7 +52,7 @@
 
 .greyWrap {
   background-color: #D1D3D7;
-  padding: 1.875em 0 1.875em 0;
+  padding: 1.875em 0 .075em 0;
   width: 98%;
   margin: 0 auto 0 auto;
 }
@@ -65,5 +73,22 @@
 
 .footer {
   background-color: #000000;
+  padding: 1.875em 0 1.25em 0;
+}
+
+.links {
   color: white;
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+
+a {
+  margin: 0 1.5em;
+}
+
+.footerLogo {
+  background-color: #fff;
+  width: 15%;
+  height: 1em;
+  margin: 0 auto;
 }
