@@ -31,17 +31,18 @@
 .first {
   background-color: #344052;
   color: white;
-  text-align: center;
   padding-bottom: 4.6875em;
   padding-top: 10em;
 }
 
 .top {
     font-family: 'Helvetica', sans-serif;
+    text-align: center;
 }
 
 .aboveButton {
   font-family: 'Helvetica', sans-serif;
+  text-align: center;
 }
 
 .firstButton {
@@ -63,11 +64,27 @@
 }
 
 .para {
-  width: 50%;
+  width: 70%;
   background-color: white;
   margin: 0 auto;
-  height: 2em;
   margin-bottom: 1.875em;
+}
+
+.paraImage {
+  height: 3.75em;
+  width: 3.125em;
+  background-color: #616E80;
+  margin-top: .35em;
+  vertical-align: bottom;
+}
+
+.paraText {
+  height: 3.4375em;
+  width: 15em;
+  background-color: #616E80;
+  float: right;
+  margin-right: .2em
+
 }
 
 .second {
@@ -84,9 +101,31 @@
 
 .greyDiv{
   background-color: #fff;
-  height: 13.475em;
   margin: 0 auto 1.875em auto;
   width: 96%;
+  padding: 1.25em 0 2em 0;
+}
+
+.greyImg {
+  background-color: #C7D2D8;
+  height: 3.75em;
+  width: 3.75em;
+  margin: 1.25em auto 0 auto;
+  display: block;
+}
+
+.greyHeader {
+  background-color: #C7D2D8;
+  width: 24em;
+  height: 1.5em;
+  margin: .675em auto 0 auto;
+}
+
+.greyFont {
+  background-color: #C7D2D8;
+  margin: 1.25em auto 0 auto;
+  width: 24em;
+  height: 3em;
 }
 
 .secondButton {
