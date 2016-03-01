@@ -11,7 +11,7 @@
   padding-top: 10em;
 }
 
-.create {
+.firstButton {
   background-color: #118BC0;
   text-align: center;
   margin: 0 auto 0 auto;
@@ -35,4 +35,35 @@
   margin: 0 auto;
   height: 2em;
   margin-bottom: 1.875em;
+}
+
+.second {
+  background-color: #E8F0F5;
+  padding: 11.875em 0 1.25em 0;
+}
+
+.greyWrap {
+  background-color: #D1D3D7;
+  padding: 1.875em 0 1.875em 0;
+  width: 98%;
+  margin: 0 auto 0 auto;
+}
+
+.greyDiv{
+  background-color: #fff;
+  height: 13.475em;
+  margin: 0 auto 1.875em auto;
+  width: 96%;
+}
+
+.secondButton {
+  background-color: #118BC0;
+  height: 2em;
+  width: 30%;
+  margin: 6.25em auto 0 auto;
+}
+
+.footer {
+  background-color: #000000;
+  color: white;
 }
