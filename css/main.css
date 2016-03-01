@@ -1,6 +1,31 @@
-.header {
-  height: 3.75em;
+.lighterHeader {
   background-color: #008AC2;
+  height: 3.75em;
+}
+
+.logo {
+    height: 1.875em;
+    width: 1.875em;
+    margin-left: 1em;
+    background-color: #fff;
+    float: left;
+    margin-top: 1em;
+}
+
+.title {
+  height: 1.875em;
+  width: 10em;
+  background-color: white;
+  margin-left: 3.875em;
+  float: left;
+  margin-top: 1em;
+}
+
+.darkerHeader {
+  height: 3.75em;
+  background-color: #006FA6;
+  width: 4.375em;
+  float: right;
 }
 
 .first {
