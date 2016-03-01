@@ -1,0 +1,38 @@
+.header {
+  height: 3.75em;
+  background-color: #008AC2;
+}
+
+.first {
+  background-color: #344052;
+  color: white;
+  text-align: center;
+  padding-bottom: 4.6875em;
+  padding-top: 10em;
+}
+
+.create {
+  background-color: #118BC0;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  width: 30%;
+  height: 2em;
+  border: .5em solid #212934;
+  margin-bottom: 13.125em;
+}
+
+.down {
+  width: 5%;
+  height: 1em;
+  background-color: #ffffff;
+  margin: 0 auto 0 auto;
+  margin-bottom: 8.4375em;
+}
+
+.para {
+  width: 50%;
+  background-color: white;
+  margin: 0 auto;
+  height: 2em;
+  margin-bottom: 1.875em;
+}
