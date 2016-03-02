@@ -196,8 +196,17 @@
   margin-bottom: 1.5em;
 }
 
+ul {
+  list-style: none;
+  margin-left: -1.5em
+}
+
+li {
+  display: inline-block;
+  margin: 0 .5em;
+}
+
 .f-links {
-  margin: 0 1.5em;
   font-size: .6em;
 }
 
