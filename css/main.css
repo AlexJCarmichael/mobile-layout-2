@@ -1,3 +1,8 @@
+body {
+  line-height: 1.6;
+  margin: 0 auto;
+}
+
 .lighterHeader {
   background-color: #008AC2;
   height: 3.75em;
@@ -7,7 +12,6 @@
     height: 1.875em;
     width: 1.875em;
     margin-left: 1em;
-    background-color: #fff;
     float: left;
     margin-top: 1em;
 }
@@ -75,13 +79,12 @@
 }
 
 .createButton {
-  margin: 1em 0 0 0;
+  margin: .7em 0 0 0;
 }
 
 .down {
   width: 5%;
   height: 1em;
-  background-color: #ffffff;
   margin: 0 auto 0 auto;
   margin-bottom: 8.4375em;
 }
@@ -95,8 +98,7 @@
 .paraImage {
   height: 3.75em;
   width: 3.125em;
-  background-color: #fff;
-  margin-top: .35em;
+  margin-top: .75em;
   vertical-align: bottom;
 }
 
@@ -141,10 +143,12 @@
 
 .greyImg {
   background-color: #C7D2D8;
-  height: 3.75em;
-  width: 3.75em;
+  width: 2.05em;
   margin: 1.25em auto 0 auto;
   display: block;
+  border-radius: 50%;
+  height: 1.875em;
+  padding: .5em;
 }
 
 .greyHeader {
@@ -211,8 +215,9 @@ li {
 }
 
 .footerLogo {
-  background-color: #fff;
+  color: #fff;
   width: 15%;
   height: 1em;
   margin: 0 auto;
+  font-size: .675em;
 }
