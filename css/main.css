@@ -52,7 +52,7 @@ body {
 }
 
 .first {
-  background-color: #344052;
+  background-image: url("https://s1.wp.com/home.logged-out/images/pic-crowd-mobile-2x.webp?2");
   color: white;
   padding-bottom: 4.6875em;
   padding-top: 10em;
@@ -74,7 +74,7 @@ body {
   margin: 0 auto 13.125em auto;
   width: 45%;
   height: 3.125em;
-  border: .5em solid #212934;
+  border: .5em solid rgba(33, 41, 52, .5);
   font-size: 1.3em;
 }
 
