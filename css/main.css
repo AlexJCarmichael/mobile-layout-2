@@ -74,7 +74,7 @@
 }
 
 .createButton {
-  margin: 1em 0 0 0;
+  margin: .5em 0 0 0;
 }
 
 .down {
@@ -113,7 +113,15 @@
 
 .second {
   background-color: #E8F0F5;
-  padding: 11.875em 0 1.25em 0;
+  padding: 0 0 1.25em 0;
+}
+
+.hypePara {
+  color: #2E405D;
+  text-align: center;
+  margin-bottom: 1.075em;
+  font-size: 1.5em;
+  padding-top: .075em;
 }
 
 .greyWrap {
