@@ -68,13 +68,14 @@
   background-color: #118BC0;
   text-align: center;
   margin: 0 auto 13.125em auto;
-  width: 30%;
-  height: 2em;
+  width: 45%;
+  height: 3.125em;
   border: .5em solid #212934;
+  font-size: 1.3em;
 }
 
 .createButton {
-  margin: .5em 0 0 0;
+  margin: 1em 0 0 0;
 }
 
 .down {
@@ -147,24 +148,41 @@
 }
 
 .greyHeader {
-  background-color: #C7D2D8;
   width: 24em;
   height: 1.5em;
   margin: .675em auto 0 auto;
+  text-align: center;
+  color: #526C7B;
+  font-family: Helvetica;
 }
 
 .greyFont {
-  background-color: #C7D2D8;
+  text-align: center;
   margin: 1.25em auto 0 auto;
   width: 24em;
   height: 3em;
 }
 
+.hypeParaTwo {
+  color: #2E405D;
+  text-align: center;
+  margin-bottom: 1.075em;
+  font-size: 1.4em;
+  padding-top: .075em;
+}
+
 .secondButton {
   background-color: #118BC0;
-  height: 2em;
-  width: 30%;
-  margin: 6.25em auto 0 auto;
+  text-align: center;
+  width: 45%;
+  height: 3.125em;
+  font-size: 1.3em;
+  margin: 2.3em auto 0 auto;
+  color: #fff;
+}
+
+.createSecond {
+  vertical-align: middle;
 }
 
 .footer {
@@ -180,6 +198,7 @@
 
 .f-links {
   margin: 0 1.5em;
+  font-size: .6em;
 }
 
 .footerLogo {
